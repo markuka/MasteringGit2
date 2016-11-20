@@ -1,0 +1,26 @@
+Number of students who modified this file: 1 student
+
+Name of the last student who modfied this file: 
+
+-----------------------------------------------------
+[Template]
+Student ID:
+Name: 
+Question 1.
+Your favorite color: 
+
+Question 2.
+Your favorite sport: 
+
+Question 3.
+Your favorite food: 
+-----------------------------------------------------Student ID: 1004549 
+Name: Markus Kalske 
+Question 1.
+Your favorite color: blue 
+
+Question 2.
+Your favorite sport: swimming 
+
+Question 3.
+Your favorite food: Any good meat.
